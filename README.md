@@ -1,4 +1,4 @@
 # GA_projects
 my projects wtih GA
 
-edit
+more edits and commit
